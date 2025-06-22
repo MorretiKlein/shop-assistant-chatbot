@@ -1,0 +1,14 @@
+langchain
+qdrant-client[fastembed-gpu]
+langchain_openai
+langchain_community
+streamlit
+langchain_ollama
+langchain-qdrant
+Flask
+fastapi
+mysql-connector-python
+scikit-learn
+underthesea
+mysql-connector-python
+sentence-transformers

@@ -1,0 +1,36 @@
+{
+    "Trungdeptrai": {
+        "product_question": [
+            {
+                "type": "human",
+                "content": "bạn có những sản phầm sữa rửa mặt nào không, giá cả như nào thế?",
+                "additional_kwargs": {}
+            },
+            {
+                "type": "ai",
+                "content": "Chào bạn, hiện tại bên mình có sản phẩm sữa rửa mặt Hada Labo 170g với giá 125,000 VND và đang được giảm giá 15%. Sữa rửa mặt này rất dịu nhẹ, có độ pH cân bằng, giúp làm sạch sâu mà không gây khô căng da. Bạn có muốn tìm hiểu thêm về sản phẩm này không ạ?",
+                "additional_kwargs": {}
+            },
+            {
+                "type": "human",
+                "content": "có sản phẩm nào giá trị bé hơn 100000 không",
+                "additional_kwargs": {}
+            },
+            {
+                "type": "ai",
+                "content": "Chào bạn, hiện tại bên mình có sản phẩm Son dưỡng Vaseline 7g với giá chỉ 49,000 VND, đang được giảm giá 5% đó ạ. Sản phẩm này giúp dưỡng ẩm sâu, làm mềm môi và giảm thâm rất hiệu quả. Bạn có muốn tìm hiểu thêm về sản phẩm này không ạ?",
+                "additional_kwargs": {}
+            },
+            {
+                "type": "human",
+                "content": "tôi đã tìm hiểu những sản phẩm nào?",
+                "additional_kwargs": {}
+            },
+            {
+                "type": "ai",
+                "content": "Chào bạn, theo như trao đổi trước đó, bạn đã tìm hiểu về các sản phẩm sau:\n\n*   **Sữa rửa mặt Hada Labo 170g:** Giá 125,000 VND (đang giảm 15%).\n*   **Son dưỡng Vaseline 7g:** Giá 49,000 VND (đang giảm 5%).\n\nBạn có muốn mình cung cấp thêm thông tin chi tiết về sản phẩm nào không ạ? Hoặc bạn có nhu cầu cụ thể nào khác để mình có thể tư vấn thêm không?",
+                "additional_kwargs": {}
+            }
+        ]
+    }
+}
